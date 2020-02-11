@@ -1,0 +1,11 @@
+
+
+.d1
+{
+    background-image: url("images/banner.jpg");
+    background-size: 100%, 100%;
+}
+.dbox{
+    height:20px;
+    background-color: mediumvioletred;
+}
